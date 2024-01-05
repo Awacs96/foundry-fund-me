@@ -1,3 +1,7 @@
+### DISCLAIMER
+
+**This is still a very much in-progress project that I created by following Patrick Collins and Cyfrin Updraft tutorial with some minor changes I deemed as useful and some hot fixes along the way that I still have to verify and test.**
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
